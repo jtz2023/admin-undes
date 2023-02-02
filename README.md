@@ -30,7 +30,7 @@ Medusa is an open-source headless commerce engine that enables developers to cre
 ## Quickstart
 
 Follow our [quickstart guide](https://docs.medusajs.com/quickstart/quick-start) to learn how to set up a Medusa server.
-##
+####
 
 ## Setting up Admin
 
